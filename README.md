@@ -1,103 +1,48 @@
-# Guia de estilos
+# HZC | Picos 🛹🚵‍♂️ <a href="https://github.com/Rodolfo-Sampaio/flex-e-grid-HZC/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="NPM" align="right"></a>
 
-Toda a estilização que será usada no projeto dentro do figma.
+Projeto finalizado com ênfase na utilização de flex containers e grid containers em duas páginas HTML, seguindo a abordagem mobile-first e garantindo dinamicidade para uma experiência otimizada em desktop. Conquistas obtidas por meio do curso:
+### CSS: dispondo elementos com Flexbox e Grid da [Alura](https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid) ⭐
 
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
+Foi incluído um arquivo JavaScript compacto, destinado exclusivamente à implementação lógica essencial para controlar a visibilidade do menu lateral na versão mobile.
 
-## Fonte
 
-```html
-Open Sans:
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
-```
+<br>
 
-## Cores
+### Layout Responsivo para Mobile, Tablet e Desktop
+---
+![HZC](https://github.com/Rodolfo-Sampaio/flex-e-grid-HZC/assets/96917363/3e12caa6-e24e-4bb8-9aa9-cc212452016f)
 
-corpo: `#1D232A`
 
-cabeçalho: `#1D232A`
+<br>
 
-cabeçalho mobile: `#15191C`
+##  Explore o HZC | Picos! 👀
 
-menu lateral: `#15191C`
+Veja nosso site adaptável em 🚩[HZC | Picos](https://flex-e-grid-hzc.vercel.app/) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
 
-cartão: `#2C343A`
+<br>
 
-fonte: `#FFFFFF`
+### Tecnologias utilizadas nesse projeto ⚡
+<span style="letter-spacing: 10px">
+   <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="60px"/>
+   <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="60px"/>
+   <img src="https://skillicons.dev/icons?i=js" title="JS" alt="JS" width="60px"/>
+   <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="60px"/>
 
-fonte alternativa: `#95999C`
+</span>
 
-links: `#0480DC`
+#
 
-botão: `#0480DC`
+<br>
 
-sombras: `0px 4px 4px rgba(0, 0, 0, 0.16)`
+### Instrutor(a):
 
-## Ícones
+<a href="https://www.linkedin.com/in/matheus-alberto-marcus/">
+  <img src="https://media.licdn.com/dms/image/C4D03AQE809_noWJp0g/profile-displayphoto-shrink_200_200/0/1642888517760?e=1708560000&v=beta&t=umzCshSPURhNIbMwcRnrkZQb70ghAdCLpHX7HORfZ6U" alt="Matheus Alberto Marcus" style="border-radius: 50%; width: 50px; height: 50px;">
+</a>
 
-Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fonte no projeto usando `@font-face` e depois utilize os códigos abaixo para exibir o ícone.
+[Matheus Alberto Marcus](https://www.linkedin.com/in/matheus-alberto-marcus/)
+<br>
+<br>
+### E aí, explorador de linhas de código! 🌐 Agradeço pela visita no meu Git. Se curtiu a jornada, que tal uma troca de ideias? Dá um `Follow` que tamo junto nessa caminhada. Até mais, e que os algoritmos estejam a seu favor! 😎💻
 
-```css
-@font-face {
-    font-family: 'icones';
-    src: url(../font/icones.ttf);
-}
-```
-
-> Cuidado com a localização do arquivo `icones.ttf`
-
-Camisas = `\e900`
-
-Carrinho = `\e901`
-
-Inicio = `\e902`
-
-Integrantes = `\e903`
-
-Menu = `\e904`
-
-Moeda = `\e905`
-
-Notificação = `\e906`
-
-Pico = `\e908`
-
-Picos = `\e909`
-
-Pinturas = `\e90a`
-
-Play = `\e90b`
-
-Relogio = `\e90c`
-
-Seta-baixo = `\e90d`
-
-Videos = `\e90e`
-
-Visualizacao = `\e90f`
-
-## Espaçamentos
-
-Espaço interno botão: `8px`
-
-Espaço entre elementos do botão: `8px`
-
-Espaço entre elementos: `16px/8px`
-
-Espaçamento interno do corpo: `16px`
-
-Espaçamento entre o título do cartão de recentes e seus itens: `24px`
-
-## Tamanhos
-
-Tamanho do dispositivo mobile: `360px`
-
-Tamanho do dispositivo desktop: `1440px`
-
-Largura máxima do conteúdo principal: `1120px`
-
-Largura máxima de um cartão desktop: `256px`
-
-Altura mínima de um cartão: `320px`
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e8bff&height=110&section=footer"/>
