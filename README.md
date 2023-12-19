@@ -43,6 +43,6 @@ Veja nosso site adaptável em 🚩[HZC | Picos](https://flex-e-grid-hzc.vercel.a
 [Matheus Alberto Marcus](https://www.linkedin.com/in/matheus-alberto-marcus/)
 <br>
 <br>
-### E aí, explorador de linhas de código! 🌐 Agradeço pela visita no meu Git. Se curtiu a jornada, que tal uma troca de ideias? Dá um `Follow` que tamo junto nessa caminhada. Até mais, e que os algoritmos estejam a seu favor! 😎💻
+### E aí, explorador de linhas de código! 🌐 Agradeço pela visita no meu Git. Se curtiu a jornada, que tal uma troca de ideias? Dá um [`Follow`](https://github.com/Rodolfo-Sampaio) que tamo junto nessa caminhada. Até mais, e que os algoritmos estejam a seu favor! 😎💻
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e8bff&height=110&section=footer"/>
